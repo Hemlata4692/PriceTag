@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>637CB297-2646-4716-865F-9EB6B8675F56</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PriceTag</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AFF6B61F3BEA22781E4DA63E9F82C1C5281DDD3B</key>
+		<string>https://gitlab.com/ranosys-bkn/pricetag_iPhone.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Rohit/PriceTag.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AFF6B61F3BEA22781E4DA63E9F82C1C5281DDD3B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://gitlab.com/ranosys-bkn/pricetag_iPhone.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AFF6B61F3BEA22781E4DA63E9F82C1C5281DDD3B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AFF6B61F3BEA22781E4DA63E9F82C1C5281DDD3B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pricetag_iPhone</string>
+		</dict>
+	</array>
+</dict>
+</plist>
