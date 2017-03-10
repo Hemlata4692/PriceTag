@@ -1,0 +1,31 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#define webUrl @"http://192.163.217.181:8080/Price_tag/rest/user/"
+//#define webUrl @"http://192.163.217.181:8080/PriceTagTest/rest/user/"
+
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "GlobalMethod.h"
+    #import "WebService.h"
+#import "AppDelegate.h"
+#import "NullValueChecker.h"
+#import "JSONKit.h"
+#import "DataHolderClass.h"
+#import "Internet.h"
+#import "BSKeyboardControls.h"
+#define myDelegate ((AppDelegate *)[[UIApplication sharedApplication] delegate])
+
+
+#endif
